@@ -1,0 +1,27 @@
+body
+    {
+        text-align: center;
+        background-color: grey;
+            
+    }
+h1
+    {
+       color:green;
+    }
+
+h3  {
+       color: rgb(35, 214, 214);
+    }
+hr  { border-style: none;
+      border-top-style: dotted;
+      border-color: black;
+      border-width: 5px;
+      width: 40%;
+}
+div{
+
+    
+    color: aqua;
+}
+    
+        
